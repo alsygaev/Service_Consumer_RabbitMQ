@@ -1,0 +1,5 @@
+logging:
+  file:
+    name: C:/Users/T14 Gen 4/IdeaProjects/Service_Consumer_RabbitMQ/logs/publisher.log
+  level:
+    root: INFO
